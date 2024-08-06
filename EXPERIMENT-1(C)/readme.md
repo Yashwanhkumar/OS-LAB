@@ -1,8 +1,8 @@
 # program code
-![program_code](FCFS.c)
+![program_code](roundrobhin_code_le_516.py)
 
 # program output
-![program_output](FCFS-OUTPUT-LE_516.png)
+![program_output](Round_output_le_516.PNG)
 
-# tested output
-![tested_output](FCFS_OUTPUT_LE_516.png)
+# program code png
+![tested_output](Round Robin code.PNG)
